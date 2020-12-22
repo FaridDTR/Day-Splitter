@@ -1,0 +1,872 @@
+year,quarter,region,market_final,channel,viewability_percentage,unsafe_percentage,total_fraud_precentage
+2019,Q1-Q2,APAC,Australia,Display,53.00%,3.90%,1.00%
+2019,Q1-Q2,APAC,Australia,Mobile in app,74.00%,0.80%,3.20%
+2019,Q1-Q2,APAC,Australia,Video,60.00%,10.40%,1.40%
+2019,Q1-Q2,APAC,China,Display,54.00%,5.80%,4.50%
+2019,Q1-Q2,APAC,China,Mobile in app,88.00%,1.40%,1.30%
+2019,Q1-Q2,APAC,China,Video,79.00%,7.00%,8.40%
+2019,Q1-Q2,APAC,Indonesia,Display,48.00%,3.80%,0.90%
+2019,Q1-Q2,APAC,Indonesia,Mobile in app,72.00%,0.60%,1.20%
+2019,Q1-Q2,APAC,Indonesia,Video,74.00%,12.20%,0.20%
+2019,Q1-Q2,APAC,Japan,Display,48.00%,4.60%,1.30%
+2019,Q1-Q2,APAC,Japan,Mobile in app,76.00%,3.60%,2.50%
+2019,Q1-Q2,APAC,Japan,Video,59.00%,4.00%,3.60%
+2019,Q1-Q2,Eastern Europe,Poland,Display,62.00%,5.50%,2.60%
+2019,Q1-Q2,Eastern Europe,Poland,Mobile in app,54.00%,0.20%,1.10%
+2019,Q1-Q2,Eastern Europe,Poland,Video,52.00%,13.60%,1.00%
+2019,Q1-Q2,Eastern Europe,Russia,Display,50.00%,5.50%,1.50%
+2019,Q1-Q2,Eastern Europe,Russia,Mobile in app,71.00%,0.20%,1.10%
+2019,Q1-Q2,Eastern Europe,Russia,Video,59.00%,13.60%,1.00%
+2019,Q1-Q2,LATAM,Brazil,Display,51.00%,12.00%,2.90%
+2019,Q1-Q2,LATAM,Brazil,Mobile in app,49.00%,0.80%,2.00%
+2019,Q1-Q2,LATAM,Brazil,Video,68.00%,18.70%,2.20%
+2019,Q1-Q2,LATAM,Mexico,Display,61.00%,7.60%,0.30%
+2019,Q1-Q2,LATAM,Mexico,Mobile in app,56.00%,4.50%,2.90%
+2019,Q1-Q2,LATAM,Mexico,Video,59.00%,10.50%,0.50%
+2019,Q1-Q2,NA,Canada,Display,47.00%,12.90%,2.60%
+2019,Q1-Q2,NA,Canada,Mobile in app,66.00%,5.70%,3.10%
+2019,Q1-Q2,NA,Canada,Video,64.00%,17.90%,1.70%
+2019,Q1-Q2,NA,US,Display,58.00%,5.60%,2.80%
+2019,Q1-Q2,NA,US,Mobile in app,74.00%,5.90%,2.10%
+2019,Q1-Q2,NA,US,Video,64.00%,8.80%,3.20%
+2019,Q1-Q2,Western Europe,Austria,Display,81.00%,6.80%,2.00%
+2019,Q1-Q2,Western Europe,Austria,Mobile in app,62.00%,8.20%,2.30%
+2019,Q1-Q2,Western Europe,France,Display,53.00%,6.70%,2.30%
+2019,Q1-Q2,Western Europe,France,Mobile in app,56.00%,1.30%,4.40%
+2019,Q1-Q2,Western Europe,France,Video,64.00%,12.50%,2.10%
+2019,Q1-Q2,Western Europe,Germany,Display,47.00%,8.60%,4.60%
+2019,Q1-Q2,Western Europe,Germany,Mobile in app,55.00%,4.80%,3.00%
+2019,Q1-Q2,Western Europe,Germany,Video,68.00%,6.70%,1.40%
+2019,Q1-Q2,Western Europe,Italy,Display,50.00%,8.40%,0.70%
+2019,Q1-Q2,Western Europe,Italy,Mobile in app,68.00%,3.30%,0.90%
+2019,Q1-Q2,Western Europe,Italy,Video,71.00%,6.60%,0.90%
+2019,Q1-Q2,Western Europe,Netherlands,Display,57.00%,5.90%,1.70%
+2019,Q1-Q2,Western Europe,Netherlands,Mobile in app,51.00%,30.10%,3.90%
+2019,Q1-Q2,Western Europe,Netherlands,Video,69.00%,10.70%,1.80%
+2019,Q1-Q2,Western Europe,Spain,Display,46.00%,7.70%,0.70%
+2019,Q1-Q2,Western Europe,Spain,Mobile in app,43.00%,7.50%,0.60%
+2019,Q1-Q2,Western Europe,Spain,Video,76.00%,14.20%,1.40%
+2019,Q1-Q2,Western Europe,Sweden,Display,59.00%,3.50%,1.40%
+2019,Q1-Q2,Western Europe,Sweden,Mobile in app,65.00%,0.60%,1.00%
+2019,Q1-Q2,Western Europe,Sweden,Video,65.00%,13.90%,2.00%
+2019,Q1-Q2,Western Europe,Switzerland,Display,59.00%,6.80%,1.00%
+2019,Q1-Q2,Western Europe,Switzerland,Mobile in app,57.00%,8.20%,2.30%
+2019,Q1-Q2,Western Europe,UK,Display,55.00%,6.80%,1.80%
+2019,Q1-Q2,Western Europe,UK,Mobile in app,67.00%,9.70%,2.50%
+2019,Q1-Q2,Western Europe,UK,Video,63.00%,15.30%,1.30%
+2019,Q3,Africa,Morocco,Display,,,7.90%
+2019,Q3,Africa,Nigeria,Display,,,13.10%
+2019,Q3,Africa,South Africa,Display,,,6.10%
+2019,Q3,APAC,Australia,Display,54.00%,6.60%,2.50%
+2019,Q3,APAC,Australia,Mobile in app,61.00%,5.20%,1.90%
+2019,Q3,APAC,Australia,Video,65.00%,7.30%,1.10%
+2019,Q3,APAC,China,Display,53.00%,9.10%,7.40%
+2019,Q3,APAC,China,Mobile in app,76.00%,3.10%,10.30%
+2019,Q3,APAC,China,Video,72.00%,7.30%,14.10%
+2019,Q3,APAC,Hong Kong,Display,52.00%,6.70%,7.00%
+2019,Q3,APAC,India,Display,52.00%,6.70%,17.70%
+2019,Q3,APAC,Indonesia,Display,49.00%,5.40%,2.50%
+2019,Q3,APAC,Indonesia,Mobile in app,66.00%,2.10%,0.70%
+2019,Q3,APAC,Indonesia,Video,52.00%,6.00%,4.30%
+2019,Q3,APAC,Japan,Display,51.00%,5.80%,2.20%
+2019,Q3,APAC,Japan,Mobile in app,46.00%,7.40%,16.90%
+2019,Q3,APAC,Japan,Video,63.00%,5.90%,2.30%
+2019,Q3,APAC,Malaysia,Display,52.00%,6.70%,4.60%
+2019,Q3,APAC,New Zealand,Display,52.00%,6.70%,5.50%
+2019,Q3,APAC,Pakistan,Display,52.00%,6.70%,6.50%
+2019,Q3,APAC,Philippines,Display,52.00%,6.70%,7.10%
+2019,Q3,APAC,Singapore,Display,52.00%,6.70%,5.50%
+2019,Q3,APAC,South Korea,Display,52.00%,6.70%,7.40%
+2019,Q3,APAC,Taiwan,Display,52.00%,6.70%,5.80%
+2019,Q3,APAC,Thailand,Display,52.00%,6.70%,3.50%
+2019,Q3,APAC,Vietnam,Display,52.00%,6.70%,2.80%
+2019,Q3,Eastern Europe,Bulgaria,Display,57.00%,7.90%,1.60%
+2019,Q3,Eastern Europe,Czech Republic,Display,57.00%,7.90%,7.60%
+2019,Q3,Eastern Europe,Greece,Display,57.00%,7.90%,1.50%
+2019,Q3,Eastern Europe,Hungary,Display,57.00%,7.90%,6.30%
+2019,Q3,Eastern Europe,Poland,Display,61.00%,7.90%,3.90%
+2019,Q3,Eastern Europe,Poland,Mobile in app,53.00%,1.50%,9.60%
+2019,Q3,Eastern Europe,Poland,Video,60.00%,29.90%,1.20%
+2019,Q3,Eastern Europe,Romania,Display,57.00%,7.90%,3.00%
+2019,Q3,Eastern Europe,Russia,Display,53.00%,7.90%,2.90%
+2019,Q3,Eastern Europe,Russia,Mobile in app,90.00%,1.50%,9.60%
+2019,Q3,Eastern Europe,Russia,Video,49.00%,29.90%,1.20%
+2019,Q3,Eastern Europe,Ukraine,Display,57.00%,7.90%,13.40%
+2019,Q3,LATAM,Argentina,Display,59.00%,7.20%,6.10%
+2019,Q3,LATAM,Brazil,Display,56.00%,7.90%,1.90%
+2019,Q3,LATAM,Brazil,Mobile in app,57.00%,2.90%,1.10%
+2019,Q3,LATAM,Brazil,Video,67.00%,12.50%,1.30%
+2019,Q3,LATAM,Chile,Display,59.00%,7.20%,5.30%
+2019,Q3,LATAM,Colombia,Display,59.00%,7.20%,7.40%
+2019,Q3,LATAM,Dominican Republic,Display,59.00%,7.20%,12.70%
+2019,Q3,LATAM,Mexico,Display,63.00%,6.60%,1.50%
+2019,Q3,LATAM,Mexico,Mobile in app,47.00%,2.30%,1.00%
+2019,Q3,LATAM,Mexico,Video,68.00%,9.20%,0.70%
+2019,Q3,LATAM,Peru,Display,59.00%,7.20%,6.80%
+2019,Q3,LATAM,Puerto Rico,Display,59.00%,7.20%,7.50%
+2019,Q3,Middle East,Afghanistan,Display,,,6.20%
+2019,Q3,Middle East,Egypt,Display,,,5.20%
+2019,Q3,Middle East,Jordan,Display,,,3.90%
+2019,Q3,Middle East,Israel,Display,,,4.90%
+2019,Q3,Middle East,Kuwait,Display,,,3.10%
+2019,Q3,Middle East,Lebanon,Display,,,5.30%
+2019,Q3,Middle East,Saudi Arabia,Display,,,3.50%
+2019,Q3,Middle East,Turkey,Display,,,5.90%
+2019,Q3,Middle East,United Arab Emirates,Display,,,5.80%
+2019,Q3,NA,Canada,Display,55.00%,10.00%,2.70%
+2019,Q3,NA,Canada,Mobile in app,65.00%,4.20%,1.80%
+2019,Q3,NA,Canada,Video,69.00%,9.20%,1.70%
+2019,Q3,NA,US,Display,61.00%,4.60%,2.90%
+2019,Q3,NA,US,Mobile in app,67.00%,4.40%,1.00%
+2019,Q3,NA,US,Video,62.00%,6.90%,2.50%
+2019,Q3,Western Europe,Austria,Display,82.00%,4.90%,5.00%
+2019,Q3,Western Europe,Austria,Mobile in app,57.00%,5.10%,2.10%
+2019,Q3,Western Europe,Belgium,Display,57.00%,4.90%,7.30%
+2019,Q3,Western Europe,Denmark,Display,57.00%,4.90%,7.20%
+2019,Q3,Western Europe,Finland,Display,57.00%,4.90%,8.20%
+2019,Q3,Western Europe,France,Display,50.00%,7.20%,2.50%
+2019,Q3,Western Europe,France,Mobile in app,51.00%,3.10%,2.30%
+2019,Q3,Western Europe,France,Video,66.00%,9.10%,2.80%
+2019,Q3,Western Europe,Germany,Display,53.00%,2.40%,2.00%
+2019,Q3,Western Europe,Germany,Mobile in app,56.00%,5.20%,1.00%
+2019,Q3,Western Europe,Germany,Video,76.00%,5.70%,0.90%
+2019,Q3,Western Europe,Ireland,Display,57.00%,4.90%,5.40%
+2019,Q3,Western Europe,Italy,Display,42.00%,6.20%,1.70%
+2019,Q3,Western Europe,Italy,Mobile in app,59.00%,1.40%,0.70%
+2019,Q3,Western Europe,Italy,Video,76.00%,7.10%,1.00%
+2019,Q3,Western Europe,Netherlands,Display,59.00%,7.80%,2.80%
+2019,Q3,Western Europe,Netherlands,Mobile in app,46.00%,9.30%,8.00%
+2019,Q3,Western Europe,Netherlands,Video,63.00%,2.80%,2.20%
+2019,Q3,Western Europe,Norway,Display,57.00%,4.90%,6.80%
+2019,Q3,Western Europe,Portugal,Display,57.00%,4.90%,6.90%
+2019,Q3,Western Europe,Spain,Display,49.00%,3.20%,1.50%
+2019,Q3,Western Europe,Spain,Mobile in app,61.00%,11.20%,0.80%
+2019,Q3,Western Europe,Spain,Video,79.00%,7.50%,1.00%
+2019,Q3,Western Europe,Sweden,Display,56.00%,2.10%,2.20%
+2019,Q3,Western Europe,Sweden,Mobile in app,62.00%,0.20%,0.80%
+2019,Q3,Western Europe,Sweden,Video,66.00%,13.00%,2.20%
+2019,Q3,Western Europe,Switzerland,Display,64.00%,4.90%,5.40%
+2019,Q3,Western Europe,Switzerland,Mobile in app,51.00%,5.10%,2.10%
+2019,Q3,Western Europe,UK,Display,57.00%,5.80%,1.60%
+2019,Q3,Western Europe,UK,Mobile in app,57.00%,5.40%,1.20%
+2019,Q3,Western Europe,UK,Video,68.00%,10.40%,1.30%
+2019,Q4,Africa,Morocco,Display,57.00%,,5.30%
+2019,Q4,Africa,Morocco,Mobile in app,64.00%,,1.10%
+2019,Q4,Africa,Morocco,Video,68.00%,,1.50%
+2019,Q4,Africa,Nigeria,Display,51.00%,,6.60%
+2019,Q4,Africa,Nigeria,Mobile in app,58.00%,,3.00%
+2019,Q4,Africa,Nigeria,Video,48.00%,,2.60%
+2019,Q4,Africa,South Africa,Display,58.00%,,4.50%
+2019,Q4,Africa,South Africa,Mobile in app,67.00%,,2.50%
+2019,Q4,Africa,South Africa,Video,65.00%,,1.60%
+2019,Q4,APAC,Australia,Display,57.00%,7.30%,2.60%
+2019,Q4,APAC,Australia,Mobile in app,55.00%,12.10%,1.30%
+2019,Q4,APAC,Australia,Video,72.00%,13.20%,1.30%
+2019,Q4,APAC,China,Display,47.00%,6.10%,8.60%
+2019,Q4,APAC,China,Mobile in app,77.00%,3.70%,5.40%
+2019,Q4,APAC,China,Video,70.00%,4.50%,3.40%
+2019,Q4,APAC,Hong Kong,Display,56.00%,5.30%,4.90%
+2019,Q4,APAC,Hong Kong,Mobile in app,58.00%,4.40%,4.80%
+2019,Q4,APAC,Hong Kong,Video,57.00%,9.40%,2.30%
+2019,Q4,APAC,India,Display,52.00%,5.30%,6.40%
+2019,Q4,APAC,India,Mobile in app,62.00%,4.40%,1.70%
+2019,Q4,APAC,India,Video,72.00%,9.40%,2.50%
+2019,Q4,APAC,Indonesia,Display,43.00%,2.60%,2.40%
+2019,Q4,APAC,Indonesia,Mobile in app,70.00%,1.00%,0.80%
+2019,Q4,APAC,Indonesia,Video,58.00%,14.20%,0.60%
+2019,Q4,APAC,Japan,Display,47.00%,5.40%,3.30%
+2019,Q4,APAC,Japan,Mobile in app,63.00%,0.90%,1.30%
+2019,Q4,APAC,Japan,Video,68.00%,5.80%,1.30%
+2019,Q4,APAC,Malaysia,Display,54.00%,5.30%,2.70%
+2019,Q4,APAC,Malaysia,Mobile in app,62.00%,4.40%,1.40%
+2019,Q4,APAC,Malaysia,Video,69.00%,9.40%,1.30%
+2019,Q4,APAC,New Zealand,Display,58.00%,5.30%,2.90%
+2019,Q4,APAC,New Zealand,Mobile in app,39.00%,4.40%,1.10%
+2019,Q4,APAC,New Zealand,Video,70.00%,9.40%,1.40%
+2019,Q4,APAC,Pakistan,Display,55.00%,5.30%,4.70%
+2019,Q4,APAC,Pakistan,Mobile in app,56.00%,4.40%,2.00%
+2019,Q4,APAC,Pakistan,Video,62.00%,9.40%,2.00%
+2019,Q4,APAC,Philippines,Display,51.00%,5.30%,3.70%
+2019,Q4,APAC,Philippines,Mobile in app,72.00%,4.40%,0.90%
+2019,Q4,APAC,Philippines,Video,68.00%,9.40%,1.10%
+2019,Q4,APAC,Singapore,Display,55.00%,5.30%,5.70%
+2019,Q4,APAC,Singapore,Mobile in app,65.00%,4.40%,3.10%
+2019,Q4,APAC,Singapore,Video,69.00%,9.40%,1.80%
+2019,Q4,APAC,South Korea,Display,41.00%,5.30%,6.10%
+2019,Q4,APAC,South Korea,Mobile in app,73.00%,4.40%,1.40%
+2019,Q4,APAC,South Korea,Video,59.00%,9.40%,1.10%
+2019,Q4,APAC,Taiwan,Display,46.00%,5.30%,2.30%
+2019,Q4,APAC,Taiwan,Mobile in app,60.00%,4.40%,1.00%
+2019,Q4,APAC,Taiwan,Video,43.00%,9.40%,2.20%
+2019,Q4,APAC,Thailand,Display,55.00%,5.30%,2.50%
+2019,Q4,APAC,Thailand,Mobile in app,66.00%,4.40%,2.60%
+2019,Q4,APAC,Thailand,Video,76.00%,9.40%,3.10%
+2019,Q4,APAC,Vietnam,Display,55.00%,5.30%,2.70%
+2019,Q4,APAC,Vietnam,Mobile in app,72.00%,4.40%,0.70%
+2019,Q4,APAC,Vietnam,Video,67.00%,9.40%,1.10%
+2019,Q4,Eastern Europe,Bulgaria,Display,53.00%,3.80%,5.30%
+2019,Q4,Eastern Europe,Bulgaria,Mobile in app,43.00%,2.70%,10.30%
+2019,Q4,Eastern Europe,Bulgaria,Video,78.00%,34.50%,3.90%
+2019,Q4,Eastern Europe,Czech Republic,Display,53.00%,3.80%,4.30%
+2019,Q4,Eastern Europe,Czech Republic,Mobile in app,63.00%,2.70%,7.70%
+2019,Q4,Eastern Europe,Czech Republic,Video,74.00%,34.50%,3.80%
+2019,Q4,Eastern Europe,Greece,Display,61.00%,3.80%,2.60%
+2019,Q4,Eastern Europe,Greece,Mobile in app,60.00%,2.70%,1.60%
+2019,Q4,Eastern Europe,Greece,Video,70.00%,34.50%,2.50%
+2019,Q4,Eastern Europe,Hungary,Display,56.00%,3.80%,4.40%
+2019,Q4,Eastern Europe,Hungary,Mobile in app,50.00%,2.70%,2.70%
+2019,Q4,Eastern Europe,Hungary,Video,75.00%,34.50%,4.40%
+2019,Q4,Eastern Europe,Poland,Display,59.00%,3.80%,3.50%
+2019,Q4,Eastern Europe,Poland,Mobile in app,40.00%,2.70%,2.30%
+2019,Q4,Eastern Europe,Poland,Video,75.00%,34.50%,3.00%
+2019,Q4,Eastern Europe,Romania,Display,53.00%,3.80%,2.60%
+2019,Q4,Eastern Europe,Romania,Mobile in app,59.00%,2.70%,2.20%
+2019,Q4,Eastern Europe,Romania,Video,69.00%,34.50%,1.70%
+2019,Q4,Eastern Europe,Russia,Display,50.00%,3.80%,3.60%
+2019,Q4,Eastern Europe,Russia,Mobile in app,82.00%,2.70%,1.30%
+2019,Q4,Eastern Europe,Russia,Video,72.00%,34.50%,3.20%
+2019,Q4,Eastern Europe,Ukraine,Display,55.00%,3.80%,8.80%
+2019,Q4,Eastern Europe,Ukraine,Mobile in app,55.00%,2.70%,3.70%
+2019,Q4,Eastern Europe,Ukraine,Video,79.00%,34.50%,4.00%
+2019,Q4,LATAM,Argentina,Display,57.00%,5.50%,3.20%
+2019,Q4,LATAM,Argentina,Mobile in app,64.00%,1.90%,0.80%
+2019,Q4,LATAM,Argentina,Video,69.00%,9.30%,0.80%
+2019,Q4,LATAM,Brazil,Display,54.00%,5.50%,1.90%
+2019,Q4,LATAM,Brazil,Mobile in app,69.00%,2.30%,1.00%
+2019,Q4,LATAM,Brazil,Video,71.00%,11.40%,1.50%
+2019,Q4,LATAM,Chile,Display,58.00%,5.50%,5.80%
+2019,Q4,LATAM,Chile,Mobile in app,70.00%,1.90%,0.60%
+2019,Q4,LATAM,Chile,Video,72.00%,9.30%,0.80%
+2019,Q4,LATAM,Colombia,Display,55.00%,5.50%,4.50%
+2019,Q4,LATAM,Colombia,Mobile in app,63.00%,1.90%,2.40%
+2019,Q4,LATAM,Colombia,Video,70.00%,9.30%,1.10%
+2019,Q4,LATAM,Dominican Republic,Display,47.00%,5.50%,4.00%
+2019,Q4,LATAM,Dominican Republic,Mobile in app,57.00%,1.90%,1.10%
+2019,Q4,LATAM,Dominican Republic,Video,70.00%,9.30%,1.00%
+2019,Q4,LATAM,Mexico,Display,61.00%,5.50%,1.90%
+2019,Q4,LATAM,Mexico,Mobile in app,68.00%,1.60%,0.90%
+2019,Q4,LATAM,Mexico,Video,70.00%,7.20%,1.30%
+2019,Q4,LATAM,Peru,Display,61.00%,5.50%,4.60%
+2019,Q4,LATAM,Peru,Mobile in app,63.00%,1.90%,1.90%
+2019,Q4,LATAM,Peru,Video,69.00%,9.30%,0.70%
+2019,Q4,LATAM,Puerto Rico,Display,52.00%,5.50%,3.10%
+2019,Q4,LATAM,Puerto Rico,Mobile in app,65.00%,1.90%,0.40%
+2019,Q4,LATAM,Puerto Rico,Video,68.00%,9.30%,1.20%
+2019,Q4,Middle East,Afghanistan,Display,50.00%,,4.70%
+2019,Q4,Middle East,Afghanistan,Mobile in app,63.00%,,3.70%
+2019,Q4,Middle East,Afghanistan,Video,56.00%,,21.90%
+2019,Q4,Middle East,Egypt,Display,58.00%,,3.30%
+2019,Q4,Middle East,Egypt,Mobile in app,59.00%,,0.60%
+2019,Q4,Middle East,Egypt,Video,81.00%,,1.40%
+2019,Q4,Middle East,Jordan,Display,60.00%,,3.80%
+2019,Q4,Middle East,Jordan,Mobile in app,35.00%,,0.60%
+2019,Q4,Middle East,Jordan,Video,76.00%,,1.50%
+2019,Q4,Middle East,Israel,Display,56.00%,,3.40%
+2019,Q4,Middle East,Israel,Mobile in app,67.00%,,1.20%
+2019,Q4,Middle East,Israel,Video,87.00%,,0.50%
+2019,Q4,Middle East,Kuwait,Display,57.00%,,3.80%
+2019,Q4,Middle East,Kuwait,Mobile in app,46.00%,,0.70%
+2019,Q4,Middle East,Kuwait,Video,71.00%,,1.90%
+2019,Q4,Middle East,Lebanon,Display,58.00%,,3.50%
+2019,Q4,Middle East,Lebanon,Mobile in app,51.00%,,1.10%
+2019,Q4,Middle East,Lebanon,Video,59.00%,,6.00%
+2019,Q4,Middle East,Saudi Arabia,Display,58.00%,,3.20%
+2019,Q4,Middle East,Saudi Arabia,Mobile in app,38.00%,,0.30%
+2019,Q4,Middle East,Saudi Arabia,Video,77.00%,,0.80%
+2019,Q4,Middle East,Turkey,Display,58.00%,,4.30%
+2019,Q4,Middle East,Turkey,Mobile in app,54.00%,,1.50%
+2019,Q4,Middle East,Turkey,Video,81.00%,,1.50%
+2019,Q4,Middle East,United Arab Emirates,Display,57.00%,,6.30%
+2019,Q4,Middle East,United Arab Emirates,Mobile in app,47.00%,,1.40%
+2019,Q4,Middle East,United Arab Emirates,Video,68.00%,,2.40%
+2019,Q4,NA,Canada,Display,58.00%,10.80%,2.60%
+2019,Q4,NA,Canada,Mobile in app,61.00%,3.30%,1.70%
+2019,Q4,NA,Canada,Video,71.00%,7.80%,1.40%
+2019,Q4,NA,US,Display,58.00%,4.80%,3.00%
+2019,Q4,NA,US,Mobile in app,64.00%,3.10%,1.20%
+2019,Q4,NA,US,Video,65.00%,6.80%,2.20%
+2019,Q4,Western Europe,Austria,Display,66.00%,5.50%,5.90%
+2019,Q4,Western Europe,Austria,Mobile in app,53.00%,7.20%,4.00%
+2019,Q4,Western Europe,Austria,Video,70.00%,8.00%,1.30%
+2019,Q4,Western Europe,Belgium,Display,56.00%,5.50%,4.60%
+2019,Q4,Western Europe,Belgium,Mobile in app,42.00%,7.20%,1.30%
+2019,Q4,Western Europe,Belgium,Video,76.00%,8.00%,0.90%
+2019,Q4,Western Europe,Denmark,Display,54.00%,5.50%,5.70%
+2019,Q4,Western Europe,Denmark,Mobile in app,34.00%,7.20%,6.00%
+2019,Q4,Western Europe,Denmark,Video,64.00%,8.00%,2.30%
+2019,Q4,Western Europe,Finland,Display,51.00%,5.50%,8.50%
+2019,Q4,Western Europe,Finland,Mobile in app,41.00%,7.20%,11.40%
+2019,Q4,Western Europe,Finland,Video,67.00%,8.00%,2.90%
+2019,Q4,Western Europe,France,Display,51.00%,6.40%,5.50%
+2019,Q4,Western Europe,France,Mobile in app,50.00%,3.70%,8.80%
+2019,Q4,Western Europe,France,Video,68.00%,8.70%,2.30%
+2019,Q4,Western Europe,Germany,Display,56.00%,2.40%,2.50%
+2019,Q4,Western Europe,Germany,Mobile in app,61.00%,6.50%,1.40%
+2019,Q4,Western Europe,Germany,Video,73.00%,6.20%,1.50%
+2019,Q4,Western Europe,Ireland,Display,55.00%,5.50%,5.10%
+2019,Q4,Western Europe,Ireland,Mobile in app,31.00%,7.20%,6.30%
+2019,Q4,Western Europe,Ireland,Video,66.00%,8.00%,5.40%
+2019,Q4,Western Europe,Italy,Display,47.00%,5.90%,1.80%
+2019,Q4,Western Europe,Italy,Mobile in app,66.00%,3.30%,1.80%
+2019,Q4,Western Europe,Italy,Video,78.00%,8.90%,1.10%
+2019,Q4,Western Europe,Netherlands,Display,57.00%,10.40%,3.60%
+2019,Q4,Western Europe,Netherlands,Mobile in app,47.00%,17.30%,6.10%
+2019,Q4,Western Europe,Netherlands,Video,71.00%,5.70%,2.30%
+2019,Q4,Western Europe,Norway,Display,53.00%,5.50%,12.10%
+2019,Q4,Western Europe,Norway,Mobile in app,31.00%,7.20%,10.90%
+2019,Q4,Western Europe,Norway,Video,68.00%,8.00%,4.00%
+2019,Q4,Western Europe,Portugal,Display,61.00%,5.50%,3.50%
+2019,Q4,Western Europe,Portugal,Mobile in app,61.00%,7.20%,1.10%
+2019,Q4,Western Europe,Portugal,Video,75.00%,8.00%,1.20%
+2019,Q4,Western Europe,Spain,Display,52.00%,3.50%,2.20%
+2019,Q4,Western Europe,Spain,Mobile in app,65.00%,4.20%,0.70%
+2019,Q4,Western Europe,Spain,Video,77.00%,7.20%,1.10%
+2019,Q4,Western Europe,Sweden,Display,57.00%,2.80%,3.10%
+2019,Q4,Western Europe,Sweden,Mobile in app,49.00%,0.30%,3.00%
+2019,Q4,Western Europe,Sweden,Video,69.00%,6.70%,2.80%
+2019,Q4,Western Europe,Switzerland,Display,56.00%,5.50%,5.80%
+2019,Q4,Western Europe,Switzerland,Mobile in app,48.00%,7.20%,3.60%
+2019,Q4,Western Europe,Switzerland,Video,66.00%,8.00%,1.90%
+2019,Q4,Western Europe,UK,Display,57.00%,7.50%,2.10%
+2019,Q4,Western Europe,UK,Mobile in app,55.00%,15.00%,1.70%
+2019,Q4,Western Europe,UK,Video,71.00%,12.70%,1.50%
+2020,Q1,Africa,Morocco,Display,50.00%,7.90%,5.00%
+2020,Q1,Africa,Morocco,Mobile in app,52.00%,3.80%,1.30%
+2020,Q1,Africa,Morocco,Video,67.00%,10.90%,0.30%
+2020,Q1,Africa,Nigeria,Display,54.00%,7.90%,3.60%
+2020,Q1,Africa,Nigeria,Mobile in app,57.00%,3.80%,3.10%
+2020,Q1,Africa,Nigeria,Video,53.00%,10.90%,2.70%
+2020,Q1,Africa,South Africa,Display,55.00%,7.90%,3.10%
+2020,Q1,Africa,South Africa,Mobile in app,61.00%,3.80%,2.60%
+2020,Q1,Africa,South Africa,Video,61.00%,10.90%,3.10%
+2020,Q1,APAC,Australia,Display,59.00%,6.10%,2.50%
+2020,Q1,APAC,Australia,Mobile in app,63.00%,3.00%,3.00%
+2020,Q1,APAC,Australia,Video,65.00%,19.20%,1.10%
+2020,Q1,APAC,China,Display,51.00%,6.10%,10.50%
+2020,Q1,APAC,China,Mobile in app,75.00%,0.40%,1.60%
+2020,Q1,APAC,China,Video,58.00%,9.60%,5.00%
+2020,Q1,APAC,Hong Kong,Display,55.00%,6.10%,3.60%
+2020,Q1,APAC,Hong Kong,Mobile in app,63.00%,2.20%,2.50%
+2020,Q1,APAC,Hong Kong,Video,60.00%,8.20%,5.50%
+2020,Q1,APAC,India,Display,53.00%,7.30%,3.00%
+2020,Q1,APAC,India,Mobile in app,58.00%,1.00%,0.90%
+2020,Q1,APAC,India,Video,74.00%,3.00%,1.10%
+2020,Q1,APAC,Indonesia,Display,49.00%,3.20%,3.70%
+2020,Q1,APAC,Indonesia,Mobile in app,59.00%,0.80%,1.10%
+2020,Q1,APAC,Indonesia,Video,66.00%,8.10%,0.50%
+2020,Q1,APAC,Japan,Display,49.00%,6.40%,2.30%
+2020,Q1,APAC,Japan,Mobile in app,53.00%,0.90%,1.90%
+2020,Q1,APAC,Japan,Video,73.00%,6.70%,1.00%
+2020,Q1,APAC,Malaysia,Display,53.00%,8.10%,1.60%
+2020,Q1,APAC,Malaysia,Mobile in app,69.00%,3.60%,1.60%
+2020,Q1,APAC,Malaysia,Video,73.00%,11.30%,0.70%
+2020,Q1,APAC,New Zealand,Display,57.00%,8.60%,2.10%
+2020,Q1,APAC,New Zealand,Mobile in app,51.00%,2.30%,1.20%
+2020,Q1,APAC,New Zealand,Video,73.00%,14.20%,1.20%
+2020,Q1,APAC,Pakistan,Display,56.00%,8.10%,4.20%
+2020,Q1,APAC,Pakistan,Mobile in app,52.00%,3.60%,2.30%
+2020,Q1,APAC,Pakistan,Video,56.00%,11.30%,6.80%
+2020,Q1,APAC,Philippines,Display,52.00%,6.50%,2.10%
+2020,Q1,APAC,Philippines,Mobile in app,73.00%,2.10%,2.10%
+2020,Q1,APAC,Philippines,Video,71.00%,11.50%,0.60%
+2020,Q1,APAC,Singapore,Display,55.00%,6.80%,3.80%
+2020,Q1,APAC,Singapore,Mobile in app,67.00%,11.10%,3.00%
+2020,Q1,APAC,Singapore,Video,65.00%,16.60%,2.50%
+2020,Q1,APAC,South Korea,Display,54.00%,8.10%,3.70%
+2020,Q1,APAC,South Korea,Mobile in app,59.00%,3.60%,1.50%
+2020,Q1,APAC,South Korea,Video,59.00%,11.30%,0.40%
+2020,Q1,APAC,Taiwan,Display,52.00%,8.10%,1.70%
+2020,Q1,APAC,Taiwan,Mobile in app,63.00%,3.60%,0.60%
+2020,Q1,APAC,Taiwan,Video,52.00%,11.30%,1.70%
+2020,Q1,APAC,Thailand,Display,50.00%,8.10%,1.50%
+2020,Q1,APAC,Thailand,Mobile in app,59.00%,3.60%,1.30%
+2020,Q1,APAC,Thailand,Video,64.00%,11.30%,0.70%
+2020,Q1,APAC,Vietnam,Display,55.00%,8.10%,2.10%
+2020,Q1,APAC,Vietnam,Mobile in app,67.00%,3.60%,1.50%
+2020,Q1,APAC,Vietnam,Video,69.00%,11.30%,0.60%
+2020,Q1,Eastern Europe,Bulgaria,Display,58.00%,6.20%,4.60%
+2020,Q1,Eastern Europe,Bulgaria,Mobile in app,64.00%,2.40%,14.50%
+2020,Q1,Eastern Europe,Bulgaria,Video,52.00%,10.70%,4.80%
+2020,Q1,Eastern Europe,Czech Republic,Display,48.00%,6.20%,2.20%
+2020,Q1,Eastern Europe,Czech Republic,Mobile in app,62.00%,2.40%,5.20%
+2020,Q1,Eastern Europe,Czech Republic,Video,73.00%,10.70%,0.80%
+2020,Q1,Eastern Europe,Greece,Display,55.00%,6.20%,2.20%
+2020,Q1,Eastern Europe,Greece,Mobile in app,70.00%,2.40%,1.40%
+2020,Q1,Eastern Europe,Greece,Video,73.00%,10.70%,1.50%
+2020,Q1,Eastern Europe,Hungary,Display,56.00%,6.20%,2.30%
+2020,Q1,Eastern Europe,Hungary,Mobile in app,61.00%,2.40%,1.30%
+2020,Q1,Eastern Europe,Hungary,Video,72.00%,10.70%,1.30%
+2020,Q1,Eastern Europe,Poland,Display,60.00%,6.20%,1.50%
+2020,Q1,Eastern Europe,Poland,Mobile in app,58.00%,2.40%,1.20%
+2020,Q1,Eastern Europe,Poland,Video,82.00%,10.70%,1.50%
+2020,Q1,Eastern Europe,Romania,Display,51.00%,6.20%,1.60%
+2020,Q1,Eastern Europe,Romania,Mobile in app,66.00%,2.40%,0.90%
+2020,Q1,Eastern Europe,Romania,Video,68.00%,10.70%,1.00%
+2020,Q1,Eastern Europe,Russia,Display,60.00%,3.60%,2.30%
+2020,Q1,Eastern Europe,Russia,Mobile in app,69.00%,1.60%,0.90%
+2020,Q1,Eastern Europe,Russia,Video,78.00%,19.80%,13.50%
+2020,Q1,Eastern Europe,Ukraine,Display,50.00%,6.20%,4.00%
+2020,Q1,Eastern Europe,Ukraine,Mobile in app,63.00%,2.40%,3.80%
+2020,Q1,Eastern Europe,Ukraine,Video,85.00%,10.70%,2.40%
+2020,Q1,LATAM,Argentina,Display,58.00%,11.60%,2.30%
+2020,Q1,LATAM,Argentina,Mobile in app,67.00%,3.60%,1.00%
+2020,Q1,LATAM,Argentina,Video,74.00%,10.90%,1.90%
+2020,Q1,LATAM,Brazil,Display,63.00%,6.70%,2.80%
+2020,Q1,LATAM,Brazil,Mobile in app,62.00%,2.20%,1.40%
+2020,Q1,LATAM,Brazil,Video,68.00%,6.60%,1.40%
+2020,Q1,LATAM,Chile,Display,61.00%,11.60%,3.50%
+2020,Q1,LATAM,Chile,Mobile in app,72.00%,3.60%,1.30%
+2020,Q1,LATAM,Chile,Video,76.00%,10.90%,2.70%
+2020,Q1,LATAM,Colombia,Display,58.00%,11.60%,5.80%
+2020,Q1,LATAM,Colombia,Mobile in app,65.00%,3.60%,1.90%
+2020,Q1,LATAM,Colombia,Video,78.00%,10.90%,0.70%
+2020,Q1,LATAM,Dominican Republic,Display,51.00%,11.60%,1.80%
+2020,Q1,LATAM,Dominican Republic,Mobile in app,55.00%,3.60%,1.70%
+2020,Q1,LATAM,Dominican Republic,Video,71.00%,10.90%,0.80%
+2020,Q1,LATAM,Mexico,Display,59.00%,12.10%,2.10%
+2020,Q1,LATAM,Mexico,Mobile in app,60.00%,8.00%,1.70%
+2020,Q1,LATAM,Mexico,Video,72.00%,9.90%,0.80%
+2020,Q1,LATAM,Peru,Display,57.00%,11.60%,1.70%
+2020,Q1,LATAM,Peru,Mobile in app,59.00%,3.60%,4.30%
+2020,Q1,LATAM,Peru,Video,71.00%,10.90%,0.80%
+2020,Q1,LATAM,Puerto Rico,Display,56.00%,11.60%,3.40%
+2020,Q1,LATAM,Puerto Rico,Mobile in app,66.00%,3.60%,4.40%
+2020,Q1,LATAM,Puerto Rico,Video,61.00%,10.90%,0.70%
+2020,Q1,Middle East,Afghanistan,Display,52.00%,6.80%,5.10%
+2020,Q1,Middle East,Afghanistan,Mobile in app,63.00%,2.80%,1.30%
+2020,Q1,Middle East,Afghanistan,Video,51.00%,9.30%,14.60%
+2020,Q1,Middle East,Egypt,Display,57.00%,6.80%,4.50%
+2020,Q1,Middle East,Egypt,Mobile in app,66.00%,2.80%,7.10%
+2020,Q1,Middle East,Egypt,Video,67.00%,9.30%,1.20%
+2020,Q1,Middle East,Jordan,Display,56.00%,6.80%,2.60%
+2020,Q1,Middle East,Jordan,Mobile in app,63.00%,2.80%,2.60%
+2020,Q1,Middle East,Jordan,Video,72.00%,9.30%,0.40%
+2020,Q1,Middle East,Israel,Display,55.00%,6.80%,2.70%
+2020,Q1,Middle East,Israel,Mobile in app,65.00%,2.80%,1.60%
+2020,Q1,Middle East,Israel,Video,64.00%,9.30%,0.60%
+2020,Q1,Middle East,Kuwait,Display,50.00%,6.80%,3.50%
+2020,Q1,Middle East,Kuwait,Mobile in app,57.00%,2.80%,1.00%
+2020,Q1,Middle East,Kuwait,Video,72.00%,9.30%,1.70%
+2020,Q1,Middle East,Lebanon,Display,54.00%,6.80%,2.90%
+2020,Q1,Middle East,Lebanon,Mobile in app,67.00%,2.80%,1.30%
+2020,Q1,Middle East,Lebanon,Video,60.00%,9.30%,0.60%
+2020,Q1,Middle East,Saudi Arabia,Display,57.00%,6.80%,2.50%
+2020,Q1,Middle East,Saudi Arabia,Mobile in app,47.00%,2.80%,2.00%
+2020,Q1,Middle East,Saudi Arabia,Video,61.00%,9.30%,1.30%
+2020,Q1,Middle East,Turkey,Display,56.00%,6.80%,2.60%
+2020,Q1,Middle East,Turkey,Mobile in app,65.00%,2.80%,2.80%
+2020,Q1,Middle East,Turkey,Video,81.00%,9.30%,1.30%
+2020,Q1,Middle East,United Arab Emirates,Display,53.00%,6.80%,4.00%
+2020,Q1,Middle East,United Arab Emirates,Mobile in app,56.00%,2.80%,4.00%
+2020,Q1,Middle East,United Arab Emirates,Video,59.00%,9.30%,2.40%
+2020,Q1,NA,Canada,Display,58.00%,6.70%,3.50%
+2020,Q1,NA,Canada,Mobile in app,58.00%,3.40%,1.80%
+2020,Q1,NA,Canada,Video,74.00%,7.70%,1.50%
+2020,Q1,NA,US,Display,57.00%,4.50%,3.60%
+2020,Q1,NA,US,Mobile in app,67.00%,2.80%,2.40%
+2020,Q1,NA,US,Video,64.00%,6.40%,2.00%
+2020,Q1,Western Europe,Austria,Display,64.00%,4.30%,2.30%
+2020,Q1,Western Europe,Austria,Mobile in app,61.00%,2.70%,1.90%
+2020,Q1,Western Europe,Austria,Video,67.00%,8.00%,1.30%
+2020,Q1,Western Europe,Belgium,Display,56.00%,4.30%,3.50%
+2020,Q1,Western Europe,Belgium,Mobile in app,62.00%,2.70%,2.60%
+2020,Q1,Western Europe,Belgium,Video,67.00%,8.00%,1.20%
+2020,Q1,Western Europe,Denmark,Display,61.00%,4.30%,3.50%
+2020,Q1,Western Europe,Denmark,Mobile in app,50.00%,2.70%,4.80%
+2020,Q1,Western Europe,Denmark,Video,67.00%,8.00%,3.00%
+2020,Q1,Western Europe,Finland,Display,55.00%,4.30%,7.10%
+2020,Q1,Western Europe,Finland,Mobile in app,50.00%,2.70%,7.40%
+2020,Q1,Western Europe,Finland,Video,70.00%,8.00%,3.60%
+2020,Q1,Western Europe,France,Display,53.00%,4.50%,4.00%
+2020,Q1,Western Europe,France,Mobile in app,54.00%,1.60%,3.70%
+2020,Q1,Western Europe,France,Video,71.00%,6.90%,3.60%
+2020,Q1,Western Europe,Germany,Display,59.00%,2.60%,2.70%
+2020,Q1,Western Europe,Germany,Mobile in app,64.00%,5.40%,1.40%
+2020,Q1,Western Europe,Germany,Video,75.00%,5.20%,1.80%
+2020,Q1,Western Europe,Ireland,Display,59.00%,4.30%,4.60%
+2020,Q1,Western Europe,Ireland,Mobile in app,48.00%,2.70%,10.90%
+2020,Q1,Western Europe,Ireland,Video,58.00%,8.00%,2.90%
+2020,Q1,Western Europe,Italy,Display,48.00%,5.30%,2.20%
+2020,Q1,Western Europe,Italy,Mobile in app,64.00%,1.60%,0.90%
+2020,Q1,Western Europe,Italy,Video,81.00%,8.10%,0.60%
+2020,Q1,Western Europe,Netherlands,Display,56.00%,5.50%,4.40%
+2020,Q1,Western Europe,Netherlands,Mobile in app,47.00%,0.80%,4.00%
+2020,Q1,Western Europe,Netherlands,Video,61.00%,5.60%,3.30%
+2020,Q1,Western Europe,Norway,Display,57.00%,4.30%,6.10%
+2020,Q1,Western Europe,Norway,Mobile in app,58.00%,2.70%,4.50%
+2020,Q1,Western Europe,Norway,Video,59.00%,8.00%,3.20%
+2020,Q1,Western Europe,Portugal,Display,61.00%,4.30%,3.20%
+2020,Q1,Western Europe,Portugal,Mobile in app,64.00%,2.70%,1.70%
+2020,Q1,Western Europe,Portugal,Video,78.00%,8.00%,0.40%
+2020,Q1,Western Europe,Spain,Display,54.00%,3.70%,2.00%
+2020,Q1,Western Europe,Spain,Mobile in app,61.00%,1.60%,0.70%
+2020,Q1,Western Europe,Spain,Video,78.00%,5.60%,1.20%
+2020,Q1,Western Europe,Sweden,Display,58.00%,1.90%,3.00%
+2020,Q1,Western Europe,Sweden,Mobile in app,51.00%,0.20%,2.10%
+2020,Q1,Western Europe,Sweden,Video,64.00%,4.20%,2.20%
+2020,Q1,Western Europe,Switzerland,Display,57.00%,4.30%,3.50%
+2020,Q1,Western Europe,Switzerland,Mobile in app,60.00%,2.70%,3.00%
+2020,Q1,Western Europe,Switzerland,Video,66.00%,8.00%,3.00%
+2020,Q1,Western Europe,UK,Display,57.00%,4.90%,2.20%
+2020,Q1,Western Europe,UK,Mobile in app,57.00%,4.10%,1.90%
+2020,Q1,Western Europe,UK,Video,71.00%,11.10%,1.60%
+2020,Q2,Africa,Morocco,Display,53.00%,3.60%,4.10%
+2020,Q2,Africa,Morocco,Mobile in app,57.00%,2.90%,0.70%
+2020,Q2,Africa,Morocco,Video,64.00%,5.10%,1.40%
+2020,Q2,Africa,Nigeria,Display,51.00%,3.60%,3.80%
+2020,Q2,Africa,Nigeria,Mobile in app,65.00%,2.90%,3.20%
+2020,Q2,Africa,Nigeria,Video,53.00%,5.10%,3.20%
+2020,Q2,Africa,South Africa,Display,58.00%,3.60%,2.80%
+2020,Q2,Africa,South Africa,Mobile in app,74.00%,2.90%,4.10%
+2020,Q2,Africa,South Africa,Video,60.00%,5.10%,2.10%
+2020,Q2,APAC,Australia,Display,62.00%,6.90%,2.50%
+2020,Q2,APAC,Australia,Mobile in app,63.00%,5.50%,1.00%
+2020,Q2,APAC,Australia,Video,63.00%,19.90%,1.60%
+2020,Q2,APAC,China,Display,47.00%,10.70%,10.40%
+2020,Q2,APAC,China,Mobile in app,70.00%,3.60%,3.60%
+2020,Q2,APAC,China,Video,68.00%,9.70%,4.70%
+2020,Q2,APAC,Hong Kong,Display,57.00%,9.50%,3.30%
+2020,Q2,APAC,Hong Kong,Mobile in app,59.00%,7.50%,1.70%
+2020,Q2,APAC,Hong Kong,Video,69.00%,10.80%,4.60%
+2020,Q2,APAC,India,Display,59.00%,11.60%,3.60%
+2020,Q2,APAC,India,Mobile in app,63.00%,1.70%,0.80%
+2020,Q2,APAC,India,Video,70.00%,8.50%,4.40%
+2020,Q2,APAC,Indonesia,Display,57.00%,4.60%,3.40%
+2020,Q2,APAC,Indonesia,Mobile in app,61.00%,2.40%,0.90%
+2020,Q2,APAC,Indonesia,Video,61.00%,12.50%,2.70%
+2020,Q2,APAC,Japan,Display,51.00%,4.20%,2.10%
+2020,Q2,APAC,Japan,Mobile in app,56.00%,2.90%,8.30%
+2020,Q2,APAC,Japan,Video,75.00%,5.00%,1.90%
+2020,Q2,APAC,Malaysia,Display,60.00%,10.00%,1.30%
+2020,Q2,APAC,Malaysia,Mobile in app,68.00%,4.10%,0.90%
+2020,Q2,APAC,Malaysia,Video,62.00%,11.00%,1.70%
+2020,Q2,APAC,New Zealand,Display,59.00%,9.90%,2.40%
+2020,Q2,APAC,New Zealand,Mobile in app,57.00%,5.80%,0.60%
+2020,Q2,APAC,New Zealand,Video,63.00%,11.80%,1.50%
+2020,Q2,APAC,Pakistan,Display,54.00%,10.00%,3.70%
+2020,Q2,APAC,Pakistan,Mobile in app,75.00%,4.10%,0.90%
+2020,Q2,APAC,Pakistan,Video,60.00%,11.00%,1.70%
+2020,Q2,APAC,Philippines,Display,58.00%,19.00%,1.60%
+2020,Q2,APAC,Philippines,Mobile in app,70.00%,1.00%,0.80%
+2020,Q2,APAC,Philippines,Video,62.00%,6.50%,2.40%
+2020,Q2,APAC,Singapore,Display,58.00%,11.80%,3.70%
+2020,Q2,APAC,Singapore,Mobile in app,69.00%,3.40%,2.20%
+2020,Q2,APAC,Singapore,Video,68.00%,10.80%,2.20%
+2020,Q2,APAC,South Korea,Display,58.00%,10.00%,3.50%
+2020,Q2,APAC,South Korea,Mobile in app,70.00%,4.10%,2.00%
+2020,Q2,APAC,South Korea,Video,60.00%,11.00%,3.80%
+2020,Q2,APAC,Taiwan,Display,55.00%,10.00%,2.60%
+2020,Q2,APAC,Taiwan,Mobile in app,76.00%,4.10%,0.70%
+2020,Q2,APAC,Taiwan,Video,66.00%,11.00%,7.00%
+2020,Q2,APAC,Thailand,Display,56.00%,10.00%,1.70%
+2020,Q2,APAC,Thailand,Mobile in app,66.00%,4.10%,1.70%
+2020,Q2,APAC,Thailand,Video,63.00%,11.00%,2.70%
+2020,Q2,APAC,Vietnam,Display,56.00%,10.00%,3.30%
+2020,Q2,APAC,Vietnam,Mobile in app,68.00%,4.10%,0.40%
+2020,Q2,APAC,Vietnam,Video,63.00%,11.00%,3.60%
+2020,Q2,Eastern Europe,Bulgaria,Display,56.00%,8.30%,8.10%
+2020,Q2,Eastern Europe,Bulgaria,Mobile in app,64.00%,6.80%,10.20%
+2020,Q2,Eastern Europe,Bulgaria,Video,56.00%,9.70%,3.90%
+2020,Q2,Eastern Europe,Czech Republic,Display,55.00%,8.30%,2.90%
+2020,Q2,Eastern Europe,Czech Republic,Mobile in app,64.00%,6.80%,7.60%
+2020,Q2,Eastern Europe,Czech Republic,Video,63.00%,9.70%,4.70%
+2020,Q2,Eastern Europe,Greece,Display,58.00%,8.30%,2.50%
+2020,Q2,Eastern Europe,Greece,Mobile in app,75.00%,6.80%,1.10%
+2020,Q2,Eastern Europe,Greece,Video,76.00%,9.70%,2.10%
+2020,Q2,Eastern Europe,Hungary,Display,53.00%,8.30%,2.90%
+2020,Q2,Eastern Europe,Hungary,Mobile in app,50.00%,6.80%,1.70%
+2020,Q2,Eastern Europe,Hungary,Video,69.00%,9.70%,2.20%
+2020,Q2,Eastern Europe,Poland,Display,59.00%,8.30%,2.30%
+2020,Q2,Eastern Europe,Poland,Mobile in app,51.00%,6.80%,1.10%
+2020,Q2,Eastern Europe,Poland,Video,76.00%,9.70%,2.00%
+2020,Q2,Eastern Europe,Romania,Display,51.00%,8.30%,1.70%
+2020,Q2,Eastern Europe,Romania,Mobile in app,61.00%,6.80%,2.10%
+2020,Q2,Eastern Europe,Romania,Video,65.00%,9.70%,3.30%
+2020,Q2,Eastern Europe,Russia,Display,58.00%,4.30%,3.50%
+2020,Q2,Eastern Europe,Russia,Mobile in app,73.00%,0.80%,0.80%
+2020,Q2,Eastern Europe,Russia,Video,71.00%,5.60%,3.40%
+2020,Q2,Eastern Europe,Ukraine,Display,56.00%,8.30%,5.00%
+2020,Q2,Eastern Europe,Ukraine,Mobile in app,66.00%,6.80%,1.10%
+2020,Q2,Eastern Europe,Ukraine,Video,65.00%,9.70%,10.60%
+2020,Q2,LATAM,Argentina,Display,61.00%,10.80%,2.00%
+2020,Q2,LATAM,Argentina,Mobile in app,75.00%,3.30%,1.30%
+2020,Q2,LATAM,Argentina,Video,78.00%,13.70%,1.90%
+2020,Q2,LATAM,Brazil,Display,68.00%,12.30%,3.50%
+2020,Q2,LATAM,Brazil,Mobile in app,65.00%,3.40%,0.80%
+2020,Q2,LATAM,Brazil,Video,78.00%,11.10%,1.30%
+2020,Q2,LATAM,Chile,Display,66.00%,10.80%,2.90%
+2020,Q2,LATAM,Chile,Mobile in app,73.00%,3.30%,1.30%
+2020,Q2,LATAM,Chile,Video,72.00%,13.70%,2.10%
+2020,Q2,LATAM,Colombia,Display,63.00%,10.80%,1.80%
+2020,Q2,LATAM,Colombia,Mobile in app,69.00%,3.30%,0.80%
+2020,Q2,LATAM,Colombia,Video,77.00%,13.70%,1.70%
+2020,Q2,LATAM,Dominican Republic,Display,55.00%,10.80%,1.40%
+2020,Q2,LATAM,Dominican Republic,Mobile in app,72.00%,3.30%,0.60%
+2020,Q2,LATAM,Dominican Republic,Video,72.00%,13.70%,1.30%
+2020,Q2,LATAM,Mexico,Display,63.00%,9.20%,2.70%
+2020,Q2,LATAM,Mexico,Mobile in app,61.00%,5.50%,1.90%
+2020,Q2,LATAM,Mexico,Video,71.00%,8.40%,1.30%
+2020,Q2,LATAM,Peru,Display,61.00%,10.80%,1.60%
+2020,Q2,LATAM,Peru,Mobile in app,63.00%,3.30%,3.50%
+2020,Q2,LATAM,Peru,Video,69.00%,13.70%,1.80%
+2020,Q2,LATAM,Puerto Rico,Display,56.00%,10.80%,2.00%
+2020,Q2,LATAM,Puerto Rico,Mobile in app,77.00%,3.30%,1.10%
+2020,Q2,LATAM,Puerto Rico,Video,63.00%,13.70%,0.80%
+2020,Q2,Middle East,Afghanistan,Display,52.00%,5.60%,3.30%
+2020,Q2,Middle East,Afghanistan,Mobile in app,69.00%,2.20%,1.00%
+2020,Q2,Middle East,Afghanistan,Video,56.00%,13.40%,2.20%
+2020,Q2,Middle East,Egypt,Display,57.00%,5.60%,3.00%
+2020,Q2,Middle East,Egypt,Mobile in app,68.00%,2.20%,2.00%
+2020,Q2,Middle East,Egypt,Video,65.00%,13.40%,1.80%
+2020,Q2,Middle East,Jordan,Display,60.00%,5.60%,2.00%
+2020,Q2,Middle East,Jordan,Mobile in app,52.00%,2.20%,1.30%
+2020,Q2,Middle East,Jordan,Video,54.00%,13.40%,1.30%
+2020,Q2,Middle East,Israel,Display,59.00%,5.60%,3.50%
+2020,Q2,Middle East,Israel,Mobile in app,70.00%,2.20%,1.10%
+2020,Q2,Middle East,Israel,Video,63.00%,13.40%,2.70%
+2020,Q2,Middle East,Kuwait,Display,51.00%,5.60%,2.40%
+2020,Q2,Middle East,Kuwait,Mobile in app,57.00%,2.20%,0.80%
+2020,Q2,Middle East,Kuwait,Video,67.00%,13.40%,2.10%
+2020,Q2,Middle East,Lebanon,Display,61.00%,5.60%,2.30%
+2020,Q2,Middle East,Lebanon,Mobile in app,65.00%,2.20%,0.80%
+2020,Q2,Middle East,Lebanon,Video,65.00%,13.40%,1.30%
+2020,Q2,Middle East,Saudi Arabia,Display,61.00%,5.60%,2.40%
+2020,Q2,Middle East,Saudi Arabia,Mobile in app,47.00%,2.20%,2.20%
+2020,Q2,Middle East,Saudi Arabia,Video,63.00%,13.40%,2.50%
+2020,Q2,Middle East,Turkey,Display,60.00%,5.60%,3.00%
+2020,Q2,Middle East,Turkey,Mobile in app,65.00%,2.20%,1.20%
+2020,Q2,Middle East,Turkey,Video,84.00%,13.40%,2.90%
+2020,Q2,Middle East,United Arab Emirates,Display,58.00%,5.60%,2.90%
+2020,Q2,Middle East,United Arab Emirates,Mobile in app,56.00%,2.20%,5.10%
+2020,Q2,Middle East,United Arab Emirates,Video,60.00%,13.40%,4.50%
+2020,Q2,NA,Canada,Display,60.00%,6.20%,3.60%
+2020,Q2,NA,Canada,Mobile in app,60.00%,3.90%,2.00%
+2020,Q2,NA,Canada,Video,69.00%,8.20%,2.10%
+2020,Q2,NA,US,Display,59.00%,5.70%,3.70%
+2020,Q2,NA,US,Mobile in app,68.00%,2.70%,1.80%
+2020,Q2,NA,US,Video,66.00%,6.70%,3.90%
+2020,Q2,Western Europe,Austria,Display,66.00%,4.30%,3.20%
+2020,Q2,Western Europe,Austria,Mobile in app,61.00%,5.20%,2.10%
+2020,Q2,Western Europe,Austria,Video,61.00%,8.30%,1.80%
+2020,Q2,Western Europe,Belgium,Display,58.00%,4.30%,2.80%
+2020,Q2,Western Europe,Belgium,Mobile in app,58.00%,5.20%,0.90%
+2020,Q2,Western Europe,Belgium,Video,67.00%,8.30%,3.10%
+2020,Q2,Western Europe,Denmark,Display,63.00%,4.30%,3.60%
+2020,Q2,Western Europe,Denmark,Mobile in app,47.00%,5.20%,7.70%
+2020,Q2,Western Europe,Denmark,Video,64.00%,8.30%,5.90%
+2020,Q2,Western Europe,Finland,Display,58.00%,4.30%,6.50%
+2020,Q2,Western Europe,Finland,Mobile in app,50.00%,5.20%,4.50%
+2020,Q2,Western Europe,Finland,Video,63.00%,8.30%,4.80%
+2020,Q2,Western Europe,France,Display,56.00%,4.00%,4.40%
+2020,Q2,Western Europe,France,Mobile in app,56.00%,0.60%,3.80%
+2020,Q2,Western Europe,France,Video,67.00%,7.20%,3.90%
+2020,Q2,Western Europe,Germany,Display,59.00%,2.80%,2.90%
+2020,Q2,Western Europe,Germany,Mobile in app,65.00%,2.60%,1.60%
+2020,Q2,Western Europe,Germany,Video,70.00%,6.10%,2.70%
+2020,Q2,Western Europe,Ireland,Display,64.00%,4.30%,4.80%
+2020,Q2,Western Europe,Ireland,Mobile in app,47.00%,5.20%,5.50%
+2020,Q2,Western Europe,Ireland,Video,64.00%,8.30%,5.10%
+2020,Q2,Western Europe,Italy,Display,56.00%,3.60%,2.10%
+2020,Q2,Western Europe,Italy,Mobile in app,58.00%,7.60%,1.30%
+2020,Q2,Western Europe,Italy,Video,76.00%,14.70%,2.50%
+2020,Q2,Western Europe,Netherlands,Display,58.00%,4.40%,5.40%
+2020,Q2,Western Europe,Netherlands,Mobile in app,52.00%,1.10%,4.50%
+2020,Q2,Western Europe,Netherlands,Video,70.00%,5.80%,4.70%
+2020,Q2,Western Europe,Norway,Display,59.00%,4.30%,4.60%
+2020,Q2,Western Europe,Norway,Mobile in app,58.00%,5.20%,1.40%
+2020,Q2,Western Europe,Norway,Video,57.00%,8.30%,2.70%
+2020,Q2,Western Europe,Portugal,Display,62.00%,4.30%,2.90%
+2020,Q2,Western Europe,Portugal,Mobile in app,68.00%,5.20%,3.80%
+2020,Q2,Western Europe,Portugal,Video,67.00%,8.30%,4.60%
+2020,Q2,Western Europe,Spain,Display,60.00%,4.40%,1.90%
+2020,Q2,Western Europe,Spain,Mobile in app,63.00%,6.40%,0.80%
+2020,Q2,Western Europe,Spain,Video,80.00%,6.20%,2.30%
+2020,Q2,Western Europe,Sweden,Display,61.00%,1.40%,2.80%
+2020,Q2,Western Europe,Sweden,Mobile in app,50.00%,0.20%,1.30%
+2020,Q2,Western Europe,Sweden,Video,63.00%,1.60%,3.00%
+2020,Q2,Western Europe,Switzerland,Display,61.00%,4.30%,4.00%
+2020,Q2,Western Europe,Switzerland,Mobile in app,57.00%,5.20%,1.70%
+2020,Q2,Western Europe,Switzerland,Video,69.00%,8.30%,3.20%
+2020,Q2,Western Europe,UK,Display,61.00%,8.20%,2.60%
+2020,Q2,Western Europe,UK,Mobile in app,63.00%,4.30%,1.80%
+2020,Q2,Western Europe,UK,Video,67.00%,21.90%,2.00%
+2020,Q3,Africa,Morocco,Display,51.00%,3.60%,3.10%
+2020,Q3,Africa,Morocco,Mobile in app,60.00%,2.60%,0.40%
+2020,Q3,Africa,Morocco,Video,82.00%,8.00%,1.30%
+2020,Q3,Africa,Nigeria,Display,52.00%,3.60%,7.20%
+2020,Q3,Africa,Nigeria,Mobile in app,62.00%,2.60%,1.00%
+2020,Q3,Africa,Nigeria,Video,68.00%,8.00%,1.50%
+2020,Q3,Africa,South Africa,Display,60.00%,3.60%,3.40%
+2020,Q3,Africa,South Africa,Mobile in app,70.00%,2.60%,1.20%
+2020,Q3,Africa,South Africa,Video,70.00%,8.00%,2.00%
+2020,Q3,APAC,Australia,Display,64.00%,5.50%,2.70%
+2020,Q3,APAC,Australia,Mobile in app,53.00%,2.00%,0.60%
+2020,Q3,APAC,Australia,Video,68.00%,10.20%,1.20%
+2020,Q3,APAC,China,Display,53.00%,6.80%,17.40%
+2020,Q3,APAC,China,Mobile in app,60.00%,2.40%,9.00%
+2020,Q3,APAC,China,Video,71.00%,14.00%,11.60%
+2020,Q3,APAC,Hong Kong,Display,57.00%,12.40%,3.60%
+2020,Q3,APAC,Hong Kong,Mobile in app,61.00%,1.50%,1.40%
+2020,Q3,APAC,Hong Kong,Video,68.00%,9.80%,3.10%
+2020,Q3,APAC,India,Display,58.00%,9.50%,3.10%
+2020,Q3,APAC,India,Mobile in app,60.00%,3.30%,1.70%
+2020,Q3,APAC,India,Video,77.00%,18.10%,3.40%
+2020,Q3,APAC,Indonesia,Display,59.00%,3.80%,2.10%
+2020,Q3,APAC,Indonesia,Mobile in app,59.00%,3.10%,0.60%
+2020,Q3,APAC,Indonesia,Video,61.00%,3.10%,3.60%
+2020,Q3,APAC,Japan,Display,52.00%,4.20%,2.10%
+2020,Q3,APAC,Japan,Mobile in app,51.00%,1.80%,3.70%
+2020,Q3,APAC,Japan,Video,79.00%,7.60%,1.50%
+2020,Q3,APAC,Malaysia,Display,61.00%,9.00%,1.90%
+2020,Q3,APAC,Malaysia,Mobile in app,75.00%,2.60%,0.30%
+2020,Q3,APAC,Malaysia,Video,75.00%,9.60%,0.70%
+2020,Q3,APAC,New Zealand,Display,59.00%,10.10%,2.80%
+2020,Q3,APAC,New Zealand,Mobile in app,56.00%,3.20%,0.40%
+2020,Q3,APAC,New Zealand,Video,62.00%,12.40%,0.50%
+2020,Q3,APAC,Pakistan,Display,60.00%,9.00%,3.80%
+2020,Q3,APAC,Pakistan,Mobile in app,63.00%,2.60%,0.90%
+2020,Q3,APAC,Pakistan,Video,71.00%,9.60%,8.00%
+2020,Q3,APAC,Philippines,Display,55.00%,9.70%,1.20%
+2020,Q3,APAC,Philippines,Mobile in app,57.00%,3.60%,0.20%
+2020,Q3,APAC,Philippines,Video,67.00%,9.10%,5.60%
+2020,Q3,APAC,Singapore,Display,59.00%,12.00%,4.10%
+2020,Q3,APAC,Singapore,Mobile in app,67.00%,1.90%,1.60%
+2020,Q3,APAC,Singapore,Video,69.00%,6.70%,3.30%
+2020,Q3,APAC,South Korea,Display,54.00%,9.00%,3.00%
+2020,Q3,APAC,South Korea,Mobile in app,61.00%,2.60%,0.80%
+2020,Q3,APAC,South Korea,Video,73.00%,9.60%,3.10%
+2020,Q3,APAC,Taiwan,Display,56.00%,9.00%,2.00%
+2020,Q3,APAC,Taiwan,Mobile in app,67.00%,2.60%,0.60%
+2020,Q3,APAC,Taiwan,Video,61.00%,9.60%,0.40%
+2020,Q3,APAC,Thailand,Display,59.00%,9.00%,1.50%
+2020,Q3,APAC,Thailand,Mobile in app,67.00%,2.60%,1.00%
+2020,Q3,APAC,Thailand,Video,70.00%,9.60%,1.50%
+2020,Q3,APAC,Vietnam,Display,62.00%,9.00%,1.40%
+2020,Q3,APAC,Vietnam,Mobile in app,70.00%,2.60%,0.30%
+2020,Q3,APAC,Vietnam,Video,76.00%,9.60%,1.50%
+2020,Q3,Eastern Europe,Bulgaria,Display,46.00%,13.50%,3.40%
+2020,Q3,Eastern Europe,Bulgaria,Mobile in app,65.00%,6.50%,2.80%
+2020,Q3,Eastern Europe,Bulgaria,Video,75.00%,9.70%,7.90%
+2020,Q3,Eastern Europe,Czech Republic,Display,55.00%,13.50%,2.80%
+2020,Q3,Eastern Europe,Czech Republic,Mobile in app,71.00%,6.50%,2.00%
+2020,Q3,Eastern Europe,Czech Republic,Video,89.00%,9.70%,1.40%
+2020,Q3,Eastern Europe,Greece,Display,60.00%,13.50%,1.90%
+2020,Q3,Eastern Europe,Greece,Mobile in app,75.00%,6.50%,0.80%
+2020,Q3,Eastern Europe,Greece,Video,79.00%,9.70%,3.70%
+2020,Q3,Eastern Europe,Hungary,Display,56.00%,13.50%,2.40%
+2020,Q3,Eastern Europe,Hungary,Mobile in app,62.00%,6.50%,2.60%
+2020,Q3,Eastern Europe,Hungary,Video,85.00%,9.70%,1.10%
+2020,Q3,Eastern Europe,Poland,Display,64.00%,13.50%,1.40%
+2020,Q3,Eastern Europe,Poland,Mobile in app,54.00%,6.50%,1.20%
+2020,Q3,Eastern Europe,Poland,Video,76.00%,9.70%,2.60%
+2020,Q3,Eastern Europe,Romania,Display,51.00%,13.50%,1.90%
+2020,Q3,Eastern Europe,Romania,Mobile in app,62.00%,6.50%,1.20%
+2020,Q3,Eastern Europe,Romania,Video,69.00%,9.70%,6.50%
+2020,Q3,Eastern Europe,Russia,Display,58.00%,6.60%,2.30%
+2020,Q3,Eastern Europe,Russia,Mobile in app,73.00%,1.00%,1.40%
+2020,Q3,Eastern Europe,Russia,Video,86.00%,10.20%,2.80%
+2020,Q3,Eastern Europe,Ukraine,Display,60.00%,13.50%,3.60%
+2020,Q3,Eastern Europe,Ukraine,Mobile in app,72.00%,6.50%,1.40%
+2020,Q3,Eastern Europe,Ukraine,Video,85.00%,9.70%,3.70%
+2020,Q3,LATAM,Argentina,Display,63.00%,7.30%,1.50%
+2020,Q3,LATAM,Argentina,Mobile in app,66.00%,4.80%,1.00%
+2020,Q3,LATAM,Argentina,Video,79.00%,6.10%,2.10%
+2020,Q3,LATAM,Brazil,Display,66.00%,7.90%,2.70%
+2020,Q3,LATAM,Brazil,Mobile in app,65.00%,1.20%,0.70%
+2020,Q3,LATAM,Brazil,Video,81.00%,4.20%,2.90%
+2020,Q3,LATAM,Chile,Display,66.00%,7.30%,2.70%
+2020,Q3,LATAM,Chile,Mobile in app,67.00%,4.80%,1.20%
+2020,Q3,LATAM,Chile,Video,77.00%,6.10%,2.20%
+2020,Q3,LATAM,Colombia,Display,60.00%,7.30%,1.80%
+2020,Q3,LATAM,Colombia,Mobile in app,64.00%,4.80%,2.30%
+2020,Q3,LATAM,Colombia,Video,82.00%,6.10%,2.50%
+2020,Q3,LATAM,Dominican Republic,Display,56.00%,7.30%,1.50%
+2020,Q3,LATAM,Dominican Republic,Mobile in app,65.00%,4.80%,0.70%
+2020,Q3,LATAM,Dominican Republic,Video,69.00%,6.10%,3.60%
+2020,Q3,LATAM,Mexico,Display,61.00%,8.20%,2.70%
+2020,Q3,LATAM,Mexico,Mobile in app,64.00%,5.60%,1.30%
+2020,Q3,LATAM,Mexico,Video,73.00%,7.10%,1.80%
+2020,Q3,LATAM,Peru,Display,60.00%,7.30%,1.50%
+2020,Q3,LATAM,Peru,Mobile in app,73.00%,4.80%,2.40%
+2020,Q3,LATAM,Peru,Video,82.00%,6.10%,1.40%
+2020,Q3,LATAM,Puerto Rico,Display,56.00%,7.30%,2.40%
+2020,Q3,LATAM,Puerto Rico,Mobile in app,79.00%,4.80%,1.90%
+2020,Q3,LATAM,Puerto Rico,Video,71.00%,6.10%,0.30%
+2020,Q3,Middle East,Afghanistan,Display,53.00%,6.40%,3.70%
+2020,Q3,Middle East,Afghanistan,Mobile in app,64.00%,2.70%,2.60%
+2020,Q3,Middle East,Afghanistan,Video,75.00%,9.40%,2.70%
+2020,Q3,Middle East,Egypt,Display,52.00%,6.40%,6.10%
+2020,Q3,Middle East,Egypt,Mobile in app,55.00%,2.70%,0.60%
+2020,Q3,Middle East,Egypt,Video,75.00%,9.40%,4.00%
+2020,Q3,Middle East,Jordan,Display,57.00%,6.40%,3.40%
+2020,Q3,Middle East,Jordan,Mobile in app,54.00%,2.70%,0.30%
+2020,Q3,Middle East,Jordan,Video,58.00%,9.40%,0.30%
+2020,Q3,Middle East,Israel,Display,58.00%,6.40%,4.40%
+2020,Q3,Middle East,Israel,Mobile in app,74.00%,2.70%,1.10%
+2020,Q3,Middle East,Israel,Video,76.00%,9.40%,2.10%
+2020,Q3,Middle East,Kuwait,Display,62.00%,6.40%,2.30%
+2020,Q3,Middle East,Kuwait,Mobile in app,55.00%,2.70%,0.50%
+2020,Q3,Middle East,Kuwait,Video,82.00%,9.40%,1.00%
+2020,Q3,Middle East,Lebanon,Display,66.00%,6.40%,3.30%
+2020,Q3,Middle East,Lebanon,Mobile in app,58.00%,2.70%,1.00%
+2020,Q3,Middle East,Lebanon,Video,82.00%,9.40%,1.10%
+2020,Q3,Middle East,Saudi Arabia,Display,60.00%,6.40%,2.40%
+2020,Q3,Middle East,Saudi Arabia,Mobile in app,55.00%,2.70%,1.50%
+2020,Q3,Middle East,Saudi Arabia,Video,74.00%,9.40%,0.80%
+2020,Q3,Middle East,Turkey,Display,68.00%,6.40%,3.00%
+2020,Q3,Middle East,Turkey,Mobile in app,67.00%,2.70%,1.80%
+2020,Q3,Middle East,Turkey,Video,80.00%,9.40%,2.80%
+2020,Q3,Middle East,United Arab Emirates,Display,60.00%,6.40%,2.40%
+2020,Q3,Middle East,United Arab Emirates,Mobile in app,60.00%,2.70%,0.70%
+2020,Q3,Middle East,United Arab Emirates,Video,67.00%,9.40%,2.50%
+2020,Q3,NA,Canada,Display,63.00%,4.40%,2.60%
+2020,Q3,NA,Canada,Mobile in app,65.00%,3.60%,0.90%
+2020,Q3,NA,Canada,Video,75.00%,7.40%,1.80%
+2020,Q3,NA,US,Display,61.00%,4.90%,2.50%
+2020,Q3,NA,US,Mobile in app,72.00%,2.80%,1.80%
+2020,Q3,NA,US,Video,68.00%,5.70%,3.10%
+2020,Q3,Western Europe,Austria,Display,62.00%,4.90%,2.20%
+2020,Q3,Western Europe,Austria,Mobile in app,66.00%,6.90%,2.10%
+2020,Q3,Western Europe,Austria,Video,71.00%,8.80%,2.80%
+2020,Q3,Western Europe,Belgium,Display,65.00%,4.90%,2.60%
+2020,Q3,Western Europe,Belgium,Mobile in app,51.00%,6.90%,0.90%
+2020,Q3,Western Europe,Belgium,Video,70.00%,8.80%,1.00%
+2020,Q3,Western Europe,Denmark,Display,63.00%,4.90%,2.50%
+2020,Q3,Western Europe,Denmark,Mobile in app,52.00%,6.90%,5.80%
+2020,Q3,Western Europe,Denmark,Video,47.00%,8.80%,9.30%
+2020,Q3,Western Europe,Finland,Display,60.00%,4.90%,6.30%
+2020,Q3,Western Europe,Finland,Mobile in app,63.00%,6.90%,3.40%
+2020,Q3,Western Europe,Finland,Video,58.00%,8.80%,1.70%
+2020,Q3,Western Europe,France,Display,61.00%,4.40%,4.60%
+2020,Q3,Western Europe,France,Mobile in app,59.00%,0.60%,3.90%
+2020,Q3,Western Europe,France,Video,71.00%,5.90%,5.00%
+2020,Q3,Western Europe,Germany,Display,61.00%,3.10%,2.80%
+2020,Q3,Western Europe,Germany,Mobile in app,60.00%,3.10%,1.10%
+2020,Q3,Western Europe,Germany,Video,72.00%,4.50%,2.40%
+2020,Q3,Western Europe,Ireland,Display,63.00%,4.90%,7.30%
+2020,Q3,Western Europe,Ireland,Mobile in app,50.00%,6.90%,13.20%
+2020,Q3,Western Europe,Ireland,Video,58.00%,8.80%,4.80%
+2020,Q3,Western Europe,Italy,Display,58.00%,5.50%,1.70%
+2020,Q3,Western Europe,Italy,Mobile in app,57.00%,13.10%,3.80%
+2020,Q3,Western Europe,Italy,Video,83.00%,10.60%,2.00%
+2020,Q3,Western Europe,Netherlands,Display,60.00%,4.20%,4.10%
+2020,Q3,Western Europe,Netherlands,Mobile in app,53.00%,5.00%,9.40%
+2020,Q3,Western Europe,Netherlands,Video,70.00%,7.70%,2.00%
+2020,Q3,Western Europe,Norway,Display,61.00%,4.90%,8.10%
+2020,Q3,Western Europe,Norway,Mobile in app,58.00%,6.90%,0.90%
+2020,Q3,Western Europe,Norway,Video,65.00%,8.80%,1.50%
+2020,Q3,Western Europe,Portugal,Display,64.00%,4.90%,2.80%
+2020,Q3,Western Europe,Portugal,Mobile in app,65.00%,6.90%,3.60%
+2020,Q3,Western Europe,Portugal,Video,83.00%,8.80%,1.70%
+2020,Q3,Western Europe,Spain,Display,57.00%,3.50%,1.80%
+2020,Q3,Western Europe,Spain,Mobile in app,60.00%,7.40%,0.60%
+2020,Q3,Western Europe,Spain,Video,81.00%,6.00%,2.00%
+2020,Q3,Western Europe,Sweden,Display,59.00%,1.60%,3.60%
+2020,Q3,Western Europe,Sweden,Mobile in app,53.00%,0.40%,1.20%
+2020,Q3,Western Europe,Sweden,Video,62.00%,6.50%,2.90%
+2020,Q3,Western Europe,Switzerland,Display,62.00%,4.90%,3.30%
+2020,Q3,Western Europe,Switzerland,Mobile in app,61.00%,6.90%,1.20%
+2020,Q3,Western Europe,Switzerland,Video,60.00%,8.80%,2.00%
+2020,Q3,Western Europe,UK,Display,62.00%,6.50%,1.80%
+2020,Q3,Western Europe,UK,Mobile in app,66.00%,8.20%,1.50%
+2020,Q3,Western Europe,UK,Video,68.00%,14.90%,1.20%
